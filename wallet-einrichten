@@ -1,0 +1,18 @@
+<!Doctype html>
+<html>
+ <head>
+ <style>
+ div {
+ border: 3px solid black;
+ }
+ </style>
+ <title>Jetzt gehts los!</title>
+ </head>
+ <body>
+ <h1>Wallet einrichten</h1>
+  <div class="main_divs" id="create_wallet">
+  
+  </div>
+ 
+ </body>
+ </html>
